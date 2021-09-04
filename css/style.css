@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+
+width:  425px;
+height: 100px;
+padding-top: 50px;
+}
+
+header .logo {
+    width:  270px;
+    height: 50px;
+    background-color: #c4c4c4;
+    float: left;
+}
+
+header .menu {
+    width:  26px;
+    height: 50px;
+    background-color: #c4c4c4;
+    float: left;
+    margin-left: 129px;
+    border-radius: 10px 0 0 10px;
+}
